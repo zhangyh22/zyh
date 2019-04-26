@@ -51,5 +51,8 @@ public class Axis {
 			e.printStackTrace();
 		}
 		
+		System.out.println(°∞≤‚ ‘π…°±);
+		
+		
 	}
 }
